@@ -1,4 +1,4 @@
-# -Coronavirus_Detection_using_Chest_X_ray.
+# Coronavirus_Detection_using_Chest_X_ray.
 
 ---
 
@@ -26,10 +26,10 @@
 ```
 pip3 install -r requirements.txt
 
-git clone https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages.git
+git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray.git
 ```
 
-![demo_install](/screenshots/demo_install.png)
+![demo_install](/screenshots/demo.png)
 
 ---
 
@@ -60,5 +60,4 @@ The Algorithms used are :
 
 > Developed by: [Kanishk Sharma](github.com/kanishksh4rma)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
