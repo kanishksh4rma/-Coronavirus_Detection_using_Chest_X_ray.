@@ -47,14 +47,13 @@ git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_r
 
 ## Algorithms Used
 
-The Algorithms used are : 
+> * Convolutional Neural Networks (CNN) in Deep Learning 
 
-	* ConvolutionalNeuralNetworks (CNN) in Deep Learning
- ---
+---
  
- ## Accuracy : 
+## Accuracy : 
  
- ![accuracy](/screenshots/accuracy.png)
+![accuracy](/screenshots/accuracy.png)
 
 ---
 
