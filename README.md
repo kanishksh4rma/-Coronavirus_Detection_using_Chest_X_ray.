@@ -14,7 +14,7 @@
 
 > ###  The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
 
-> ### *Deep learning* can be used to overcome these drawbacks which occurs due to the high dimensionality of the data. So in this project I am using deep learning to detect the chances of getting CoronaVirus suing chest X-ray.
+> ### *Deep learning* can be used to detect COVID-19 in a patient as recent studies has shown that people suffering from covid19 has infectiuos lung diseases. So in this project I am using deep learning to detect CoronaVirus using chest X-ray.
 
 ---
 
