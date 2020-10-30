@@ -66,10 +66,21 @@ git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_r
  * Metrices tests - F1 score, precision, recall, sensitivity, specificity.
  * Plot lossval and accval graph.
 ```
+## Performance :
 
-## Accuracy : 
- 
+![accuracy](/screenshots/classification_report.png)
+
+![accuracy](/screenshots/specs.png)
+
 ![accuracy](/screenshots/accuracy.png)
+
+![accuracy](/screenshots/loss.png)
+
+![accuracy](/screenshots/acc.png)
+
+## Test-Predict Plot :
+
+![accuracy](/screenshots/test_predict_plots.png)
 
 ---
 
