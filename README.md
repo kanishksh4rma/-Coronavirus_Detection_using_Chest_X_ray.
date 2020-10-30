@@ -63,9 +63,9 @@ git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_r
  * Compile and fit the model, epochs set to 10.
  * Predict the test data and plot it.
  * Metrices tests - F1 score, precision, recall, sensitivity, specificity.
- * Plot 
- 
- 
+ * Plot lossval and accval graph.
+```
+
 ## Accuracy : 
  
 ![accuracy](/screenshots/accuracy.png)
