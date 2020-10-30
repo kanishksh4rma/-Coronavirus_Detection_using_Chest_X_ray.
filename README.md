@@ -76,3 +76,4 @@ git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_r
 > Developed by: [Kanishk Sharma](github.com/kanishksh4rma)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
+
