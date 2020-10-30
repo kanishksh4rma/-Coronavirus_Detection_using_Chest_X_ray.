@@ -41,15 +41,30 @@ git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_r
   * matplotlib
   * keras
   * sklearn
-  * opencv2
+  
 ```
 ---
 
 ## Algorithms Used
 
-> * Convolutional Neural Networks (CNN) in Deep Learning 
+> * VGG16 (Transfer Learning in Deep Learning)
 
 ---
+
+## Steps/Approach :
+
+```
+ * Plot some X-rays for analysis purpose.
+ * Resize the X-rays.
+ * Arrays for images and labels was created. And LabelBinarizer used on labels.
+ * Data Augementation used (with rotation range 15).
+ * VGG16 model  used as base model.
+ * Head model created which consists of- AveragePooling2D, Flatten and two Dense layers.
+ * Compile and fit the model, epochs set to 10.
+ * Predict the test data and plot it.
+ * Metrices tests - F1 score, precision, recall, sensitivity, specificity.
+ * Plot 
+ 
  
 ## Accuracy : 
  
