@@ -22,7 +22,7 @@
 ## Directory Structure
 
 ```sh
-   ├── Coronavirus_Detection_using_Chest_X_ray.ipynb
+├── Coronavirus_Detection_using_Chest_X_ray.ipynb
 ├── LICENSE
 ├── README.md
 └── screenshots
@@ -34,6 +34,7 @@
     ├── specs.png
     └── test_predict_plots.png
 ```
+
 ---
 
 ## **Installation**
