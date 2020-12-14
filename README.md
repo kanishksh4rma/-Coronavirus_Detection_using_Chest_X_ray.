@@ -19,6 +19,22 @@
 
 ---
 
+## Directory Structure
+
+```sh
+   ├── Coronavirus_Detection_using_Chest_X_ray.ipynb
+├── LICENSE
+├── README.md
+└── screenshots
+    ├── acc.png
+    ├── accuracy.png
+    ├── classification_report.png
+    ├── demo.png
+    ├── loss.png
+    ├── specs.png
+    └── test_predict_plots.png
+```
+---
 
 ## **Installation**
 
@@ -50,7 +66,6 @@ git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_r
 
 > * VGG16 (Transfer Learning in Deep Learning)
 
----
 
 ## Steps/Approach :
 
