@@ -49,7 +49,7 @@
 
 ### Libraries used : 
 
-```sh
+```
   * pandas
   * numpy
   * matplotlib
@@ -65,7 +65,7 @@
 
 ## Steps/Approach :
 
-```sh
+```
  * Plot some X-rays for analysis purpose.
  * Resize the X-rays.
  * Arrays for images and labels was created. And LabelBinarizer used on labels.
