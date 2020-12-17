@@ -41,25 +41,20 @@
 
 ### Copy and Run this in terminal: 
 
+```sh
+    pip3 install -r requirements.txt
+    git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray.git
 ```
-pip3 install -r requirements.txt
-
-git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray.git
-```
-
-![demo_install](/screenshots/demo.png)
-
 ---
 
 ### Libraries used : 
 
-```
+```sh
   * pandas
   * numpy
   * matplotlib
   * keras
   * sklearn
-  
 ```
 ---
 
@@ -70,7 +65,7 @@ git clone https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_r
 
 ## Steps/Approach :
 
-```
+```sh
  * Plot some X-rays for analysis purpose.
  * Resize the X-rays.
  * Arrays for images and labels was created. And LabelBinarizer used on labels.
